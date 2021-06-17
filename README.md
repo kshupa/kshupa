@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/kshupa/kshupa/blob/main/%20about_me.png)
+![](https://github.com/kshupa/kshupa/blob/main/about_me.png)
 <!--
 **kshupa/kshupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
