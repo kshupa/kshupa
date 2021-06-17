@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
-## Goal oriented Software Developer with the knowledge of Python and practical experience in backend development using Django and Flask Frameworks, along with data analysis with Pandas.
-##Becoming a self taught developer helped me to build my career from scratch through time management and dedication, self-discipline and motivation.
+# Goal oriented Software Developer with the knowledge of Python and practical experience in backend development using Django and Flask Frameworks, along with data analysis with Pandas.
+# Becoming a self taught developer helped me to build my career from scratch through time management and dedication, self-discipline and motivation.
